@@ -1,0 +1,9 @@
+nltk==3.4.5
+spacy==2.3.5
+numpy==1.19.2
+seaborn==0.10.0
+matplotlib==3.3.2
+requests==2.22.0
+pandas==1.1.2
+beautifulsoup4==4.9.3
+scikit_learn==0.24.1
